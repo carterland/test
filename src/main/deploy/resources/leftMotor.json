@@ -1,0 +1,9 @@
+{
+    "port": 0,
+    "isInverted": false,
+    "motorModel": "TalonSRX",
+    "motorType": "BRUSHED",
+    "countsPerRevolution": 1,
+    "neutralOperation": "BRAKE",
+    "currentLimit": 40
+}
